@@ -4,6 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions that solve real-world problems. With expertise in full-stack development, data science, and machine learning, I create projects that blend creativity with technical excellence.
 
+
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
