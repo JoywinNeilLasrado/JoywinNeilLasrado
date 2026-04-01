@@ -4,6 +4,36 @@
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions that solve real-world problems. With expertise in full-stack development, data science, and machine learning, I create projects that blend creativity with technical excellence.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoywinNeilLasrado&show_icons=true&theme=radical" alt="Joywin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoywinNeilLasrado&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 💻 **Languages & Technologies**
+
+### 🔤 **Programming Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ **Frameworks & Tools**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌱 **Currently Learning**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
@@ -12,70 +42,26 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 | Project | Description | Tech Stack | Repo |
 |---------|-------------|-----------|------|
-| **Nutrilens** | Final Year Major Project - AI-powered nutrition analysis | JavaScript (50.9%), Python (32.1%), HTML, CSS | [View](https://github.com/JoywinNeilLasrado/Nutrilens) |
-| **Ticket-Supporting-System** | Advanced support ticketing platform with full-stack integration | TypeScript (53.2%), Python (41%), JavaScript, HTML, CSS, Docker | [View](https://github.com/JoywinNeilLasrado/Ticket-Supporting-System) |
-| **finance-optimizer** | Financial optimization tool using Python analytics | Python (100%) | [View](https://github.com/JoywinNeilLasrado/finance-optimizer) |
-| **Zone-Based-Occupancy-Detection** | ML-based occupancy detection system | Jupyter Notebook (100%) | [View](https://github.com/JoywinNeilLasrado/Zone-Based-Occupancy-Detection) |
+| **Nutrilens** | Final Year Major Project - AI-powered nutrition analysis | JavaScript, Python, HTML, CSS | [View](https://github.com/JoywinNeilLasrado/Nutrilens) |
+| **Ticket-Supporting-System** | Advanced support ticketing platform with full-stack integration | TypeScript, Python, JavaScript, HTML, CSS, Docker | [View](https://github.com/JoywinNeilLasrado/Ticket-Supporting-System) |
+| **finance-optimizer** | Financial optimization tool using Python analytics | Python | [View](https://github.com/JoywinNeilLasrado/finance-optimizer) |
+| **Zone-Based-Occupancy-Detection** | ML-based occupancy detection system | Jupyter Notebook | [View](https://github.com/JoywinNeilLasrado/Zone-Based-Occupancy-Detection) |
 
 ### 💼 **Web Applications**
 
 | Project | Description | Tech Stack | Repo |
 |---------|-------------|-----------|------|
-| **Event-Pass** | Event management & ticketing system | PHP (75.4%), Blade (24.3%) | [View](https://github.com/JoywinNeilLasrado/Event-Pass) |
-| **e-commerce-web-app** | Full-featured e-commerce platform | Blade (63.2%), PHP (35.8%) | [View](https://github.com/JoywinNeilLasrado/e-commerce-web-app-) |
-| **ecommerce-website** | Modern e-commerce frontend | JavaScript (70.2%), CSS (28.8%), HTML | [View](https://github.com/JoywinNeilLasrado/ecommerce-website-) |
-| **Joywinlasrado** | Personal portfolio/profile site | TypeScript (97.6%), CSS (2.2%), JavaScript | [View](https://github.com/JoywinNeilLasrado/Joywinlasrado) |
-| **blog-website** | Blog platform with modern design | HTML (56.1%), CSS (34.2%), JavaScript (9.7%) | [View](https://github.com/JoywinNeilLasrado/blog-website) |
+| **Event-Pass** | Event management & ticketing system | PHP, Blade | [View](https://github.com/JoywinNeilLasrado/Event-Pass) |
+| **e-commerce-web-app** | Full-featured e-commerce platform | Blade, PHP | [View](https://github.com/JoywinNeilLasrado/e-commerce-web-app-) |
+| **ecommerce-website** | Modern e-commerce frontend | JavaScript, CSS, HTML | [View](https://github.com/JoywinNeilLasrado/ecommerce-website-) |
+| **Joywinlasrado** | Personal portfolio/profile site | TypeScript, CSS, JavaScript | [View](https://github.com/JoywinNeilLasrado/Joywinlasrado) |
+| **blog-website** | Blog platform with modern design | HTML, CSS, JavaScript | [View](https://github.com/JoywinNeilLasrado/blog-website) |
 
 ### 📊 **Data Science & Analytics**
 
 | Project | Description | Tech Stack | Repo |
 |---------|-------------|-----------|------|
-| **FinSight** | Financial insights & analysis dashboard | Jupyter Notebook (99.9%), HTML | [View](https://github.com/JoywinNeilLasrado/FinSight) |
-
----
-
-## 💻 **Languages & Technologies**
-
-### 🔤 **Programming Languages**
-- **PHP** - Backend web development, Laravel/Blade templates
-- **Python** - Data science, machine learning, automation, financial analysis
-- **TypeScript** - Modern web development, type-safe JavaScript
-- **JavaScript** - Frontend, interactive web applications
-- **HTML** - Web markup and structure
-- **CSS** - Styling and responsive design
-- **Blade** - Laravel templating engine
-- **Jupyter Notebook** - Data analysis and machine learning experiments
-
-### 🛠️ **Tech Stack & Frameworks**
-- **Backend:** PHP, Laravel, Python
-- **Frontend:** TypeScript, JavaScript, React, HTML, CSS
-- **Database:** MySQL, Database Design & Optimization
-- **Machine Learning:** Python, Scikit-learn, Data Analysis
-- **Tools & Platforms:** Docker, Git, Jupyter Notebooks
-- **Architecture:** Full-stack development, MVC Pattern, RESTful APIs
-
-### 🎯 **Core Competencies**
-- ✅ Full-Stack Web Development
-- ✅ Machine Learning & Data Science
-- ✅ E-commerce Solutions
-- ✅ API Development & Integration
-- ✅ Database Design
-- ✅ Responsive Web Design
-- ✅ Occupancy Detection & Computer Vision
-- ✅ Financial Analytics & Optimization
-
----
-
-## 📈 **Skills Breakdown**
-
-```
-Frontend Development:     ████████░ 85%
-Backend Development:      ███████░░ 75%
-Data Science/ML:          ██████░░░ 65%
-Database Design:          ███████░░ 75%
-Full-Stack Integration:   ████████░ 85%
-```
+| **FinSight** | Financial insights & analysis dashboard | Jupyter Notebook, HTML | [View](https://github.com/JoywinNeilLasrado/FinSight) |
 
 ---
 
@@ -95,19 +81,14 @@ Full-Stack Integration:   ████████░ 85%
 - **Diverse Tech Stack** - from frontend to backend to ML
 - **Project Variety** - e-commerce, finance, events, data science, web design
 - **Full-Stack Expertise** - end-to-end solution development
-- **Modern Technologies** - TypeScript, Python, Laravel, and more
 
 ---
 
-## 📊 **Repository Statistics**
+## 📈 **Contribution Activity**
 
-```
-Total Projects:           10
-Languages Used:           8
-Primary Focus Areas:      Full-Stack Web Dev, ML/Data Science, E-Commerce
-Most Used Language:       PHP, Python, TypeScript, JavaScript
-Development Approach:     Full-Stack, Problem-Oriented
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoywinNeilLasrado&theme=react-dark&hide_border=true" alt="Joywin's Activity Graph" width="100%" />
+</div>
 
 ---
 
@@ -131,7 +112,3 @@ Whether it's building a robust backend system, crafting beautiful user interface
 I'm always open to exciting projects and collaborations. Feel free to explore my repositories, fork them, and reach out if you'd like to work together!
 
 **Happy Coding! 🚀**
-
----
-
-_Last Updated: April 1, 2026_
