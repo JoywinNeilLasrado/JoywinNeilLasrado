@@ -9,24 +9,23 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
   <tr style="border: none;">
     <td align="center" style="border: none;">
       <a href="https://github.com/JoywinNeilLasrado">
-        <img src="https://github-readme-stats.vercel.app/api?username=JoywinNeilLasrado&show_icons=true&count_private=true&title_color=eaff00&icon_color=08e8de&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="Joywin's GitHub Stats" />
+        <img src="https://github-readme-stats-pi-rouge-32.vercel.app/api?username=JoywinNeilLasrado&show_icons=true&count_private=true&title_color=eaff00&icon_color=08e8de&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="Joywin's GitHub Stats" />
       </a>
     </td>
     <td align="center" style="border: none;">
       <a href="https://github.com/JoywinNeilLasrado">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoywinNeilLasrado&stroke=ffffff&background=0d1117&ring=eaff00&fire=eaff00&currStreakNum=ffffff&currStreakLabel=eaff00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=JoywinNeilLasrado&stroke=ffffff&background=0d1117&ring=eaff00&fire=eaff00&currStreakNum=ffffff&currStreakLabel=eaff00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" colspan="2" style="border: none;">
       <a href="https://github.com/JoywinNeilLasrado">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoywinNeilLasrado&langs_count=10&title_color=eaff00&text_color=ffffff&icon_color=08e8de&bg_color=0d1117&locale=en&custom_title=Top%20Languages&border_radius=10" alt="Top Languages" />
+        <img src="https://github-readme-stats-pi-rouge-32.vercel.app/api/top-langs/?username=JoywinNeilLasrado&langs_count=10&title_color=eaff00&text_color=ffffff&icon_color=08e8de&bg_color=0d1117&locale=en&custom_title=Top%20Languages&border_radius=10" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 💻 **Languages & Technologies**
