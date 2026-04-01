@@ -155,3 +155,11 @@ Whether it's building a robust backend system, crafting beautiful user interface
 I'm always open to exciting projects and collaborations. Feel free to explore my repositories, fork them, and reach out if you'd like to work together!
 
 **Happy Coding! 🚀**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoywinNeilLasrado/JoywinNeilLasrado/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoywinNeilLasrado/JoywinNeilLasrado/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoywinNeilLasrado/JoywinNeilLasrado/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
