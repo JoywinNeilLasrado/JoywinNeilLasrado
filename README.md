@@ -21,11 +21,19 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
   <tr style="border: none;">
     <td align="center" colspan="2" style="border: none;">
       <a href="https://github.com/JoywinNeilLasrado">
-        <img src="https://github-readme-stats-pi-rouge-32.vercel.app/api/top-langs/?username=JoywinNeilLasrado&langs_count=10&title_color=eaff00&text_color=ffffff&icon_color=08e8de&bg_color=0d1117&locale=en&custom_title=Top%20Languages&border_radius=10" alt="Top Languages" />
+        <img src="https://github-readme-stats-pi-rouge-32.vercel.app/api/top-langs/?username=JoywinNeilLasrado&langs_count=10&title_color=eaff00&text_color=ffffff&icon_color=08e8de&bg_color=0d1117&locale=en&custom_title=Top%20Languages&border_radius=10" alt="Top Languages" width="800" />
       </a>
     </td>
   </tr>
 </table>
+<div align="center">
+
+---
+
+## 🏆 GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=JoywinNeilLasrado&theme=darkhub&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+
+</div>
 
 ---
 
