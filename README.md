@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
     </td>
   </tr>
 </table>
+
 ---
 
 ## 💻 **Languages & Technologies**
