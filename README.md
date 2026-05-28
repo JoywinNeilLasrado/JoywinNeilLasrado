@@ -125,7 +125,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - 🛒 Creating modern, responsive e-commerce solutions
 - 📱 Expanding full-stack development expertise across multiple frameworks
 
----
+----
 
 ## 🌟 **Highlights**
 
